@@ -74,7 +74,9 @@ It combines **Python for data preprocessing & analysis** with **Power BI for int
 ---
 
 ## 📈 Sample Dashboard
- ![Dashboard Screenshot](Digital Wellbeing Dashboard Screenshot.png)
+ <p align="center">
+  <img src="Digital Wellbeing Dashboard Screenshot.png" alt="Digital Wellbeing Dashboard" width="600" />
+</p>
 ---
 
 ## 📌 How to Run
